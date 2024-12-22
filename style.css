@@ -1,0 +1,26 @@
+body{
+    transition: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: darkgreen;
+    font-style: normal;
+    font-size: large;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+img{
+    background-color: blue;
+    border: 30px;
+    display: flex;
+    border: 200px;
+    border-radius: 25px;
+    background-color: brown;
+}
+h2{
+    color: blue;
+    list-style: armenian;
+    font-style: normal;
+}
